@@ -1,0 +1,16 @@
+/* Body Properties */
+*{
+    font-family: 'Roboto', sans-serif;
+}
+/* Navigation bar CSS */
+#payment{
+    text-align: right;
+}
+.theme-color{
+    background-color: #d589eb ;
+}
+.main-nav-menu li a{
+    color: white;
+    font-size: 1rem;
+    font-weight: bold;
+}
