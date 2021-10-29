@@ -7,10 +7,13 @@
     text-align: right;
 }
 .theme-color{
-    background-color: #d589eb ;
+    background-color: #BA55D5 ;
 }
 .main-nav-menu li a{
     color: white;
     font-size: 1rem;
     font-weight: bold;
+}
+.container .row{
+    border: 2px solid black;
 }
